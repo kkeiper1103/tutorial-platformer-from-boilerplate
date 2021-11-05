@@ -1,4 +1,4 @@
-# Official MelonJS Platformer Tutorial, Retrofitted to the es6-coilerplate package
+# Official MelonJS Platformer Tutorial, Retrofitted to the es6-boilerplate package
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/melonjs/es6-boilerplate/blob/master/LICENSE)
 
