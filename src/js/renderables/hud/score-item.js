@@ -1,4 +1,4 @@
-import * as me from '/node_modules/melonjs/dist/melonjs.module.js'
+import * as me from 'melonjs/dist/melonjs.module.js';
 
 import data from '../../game_data'
 
