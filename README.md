@@ -5,6 +5,10 @@
 This project takes the completed source code from [tutorial-platformer](https://github.com/melonjs/tutorial-platformer) and 
 makes it compatible with the es6 template provided by MelonJS.
 
+Please Note: This package is not the complete tutorial, with all the steps and documentation of how to get to the end result.
+Instead, this package *is* the end result, showing how the completed game would be written in es6 using the boilerplate 
+as a starting point.
+
 ## Prerequisites
 
 - [NodeJS](https://nodejs.org/en/)
